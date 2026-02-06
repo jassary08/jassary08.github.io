@@ -17,17 +17,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Jinyu Tian (田晋宇), a final-year undergraduate student at the College of Cryptology and Cyber Science, Nankai University (南开大学), supervised by Prof. Xiang Li (李翔). Currently, I am a visiting student at the Shanghai Innovation Institute (上海创智学院). I am honored to share that I will be joining Fudan University (复旦大学) in 2026 to pursue my Ph.D. degree, under the supervision of Prof. Xipeng Qiu (邱锡鹏).
+I am Jinyu Tian (田晋宇), a final-year undergraduate student at the College of Cryptology and Cyber Science, **Nankai University** ([南开大学密码与网络空间安全学院](https://cyber.nankai.edu.cn/)), supervised by Prof. Xiang Li ([李翔](https://implus.github.io/)). 
 
-During my undergraduate studies, my research primarily focused on AI4Researchers, aiming to empower the scientific community with intelligent tools. Currently, my research interests have evolved towards Multimodal Understanding and Generation, with a goal of building more versatile and creative AI systems.
+Currently, I am a visiting student at the **Shanghai Innovation Institute** ([上海创智学院](https://www.sii.edu.cn/)). Starting in Fall 2026, I will pursue my Ph.D. degree at the College of Computer Science and Artificial Intelligence, **Fudan University** ([复旦大学计算与智能创新学院](https://ai.fudan.edu.cn/)), under the supervision of Prof. Xipeng Qiu ([邱锡鹏](https://xpqiu.github.io/)).
+
+During my undergraduate studies, my research primarily focused on AI4Researchers, aiming to empower the scientific community with intelligent tools. This line of research has led to papers accepted by top-tier conferences, including ICLR 2026 and AAAI 2025. My current research interests have evolved towards **Multimodal Understanding and Generation**, with the goal of building more versatile and creative AI systems.
+
+**Interests**: Unified Multimodal Models, Streaming video understanding, GUI Agent.
 
 
 # 🔥 News
 - *2026.01*: &nbsp;🎉🎉 Our paper [NAIPv2](https://arxiv.org/abs/2509.25179) has been accepted by **ICLR 2026**!
+- *2025.09*: &nbsp;🎉🎉 I am honored to be admitted to **Fudan University** to pursue my Ph.D. degree under the supervision of Prof. [Xipeng Qiu](https://xpqiu.github.io/)!
 - *2024.12*: &nbsp;🎉🎉 Our paper [NAIPv1](https://arxiv.org/abs/2408.03934) has been accepted by **AAAI 2025**!
 
 # 📝 Publications 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/NAIPv2.png' alt="NAIPv2" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -38,7 +42,7 @@ Penghai Zhao, **Jinyu Tian**, Qinghua Xing, Xin Zhang, Zheng Li, Jianjun Qian, M
 <span style="color: red;">ICLR 2026</span>
 
 [**Paper**](https://arxiv.org/abs/2509.25179) <strong>|</strong> [**Code**](https://github.com/ssocean/NAIP) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:Tyk-4Ss8FVUC'></span></strong> 
-- We propose NAIPv2, a debiased and scalable framework for automated paper quality estimation that demonstrates strong generalization.
+
 </div>
 </div>
 
@@ -53,7 +57,6 @@ Penghai Zhao, Qinghua Xing, Kairan Dou, **Jinyu Tian**, Ying Tai, Jian Yang, Min
 
 [**Paper**](https://arxiv.org/abs/2408.03934) <strong>|</strong> [**Code**](https://github.com/ssocean/NAIP) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:Tyk-4Ss8FVUC'></span></strong>
 
-- We introduce a promising approach leveraging fine-tuned LLMs to predict the future impact of newborn articles solely based on titles and abstracts.
 </div>
 </div>
 
@@ -61,13 +64,13 @@ Penghai Zhao, Qinghua Xing, Kairan Dou, **Jinyu Tian**, Ying Tai, Jian Yang, Min
 
 
 # 📖 Educations
-- *2026.09 - Present (Incoming)*: Ph.D. Student, College of Computer Science and Artificial Intelligence, **Fudan University** (复旦大学) && Shanghai Innovation Institute(上海创智学院).
-  - Supervisor: Prof. Xipeng Qiu.
-- *2022.09 - 2026.06*: Undergraduate Student, College of Cryptology and Cyber Science, **Nankai University** (南开大学).
-  - Supervisor: Prof. Xiang Li.
+
+- *2026.09 - Present (Incoming)*: Ph.D. Student, College of Computer Science and Artificial Intelligence, **Fudan University**  && **Shanghai Innovation Institute**.
+
+- *2022.09 - 2026.06*: Undergraduate Student, College of Cryptology and Cyber Science, **Nankai University**.
 
 <!-- # 💬 Invited Talks -->
 
 # 💻 Internships
-- *2025.xx - Present*: Visiting Student, **Shanghai Innovation Institute** (上海创智学院).
-  - Mentor: Jinlan Fu (傅金兰).
+
+- *2025.10 - Present*: Visiting Student, **Shanghai Innovation Institute**.
