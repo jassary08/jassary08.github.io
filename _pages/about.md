@@ -51,8 +51,8 @@ Penghai Zhao, Qinghua Xing, Kairan Dou, **Jinyu Tian**, Ying Tai, Jian Yang, Min
 
 <span style="color: red;">AAAI 2025 (CCF-A)</span>
 
-[**Paper**](https://arxiv.org/abs/2408.03934) <strong>|</strong> [**Code**](https://github.com/ssocean/NAIP) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:Tyk-4Ss8FVUC'></span></strong> 
-</div>data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://arxiv.org/abs/2408.03934) <strong>|</strong> [**Code**](https://github.com/ssocean/NAIP) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:Tyk-4Ss8FVUC'></span></strong>
+
 - We introduce a promising approach leveraging fine-tuned LLMs to predict the future impact of newborn articles solely based on titles and abstracts.
 </div>
 </div>
