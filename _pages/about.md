@@ -60,6 +60,9 @@ Penghai Zhao, Qinghua Xing, Kairan Dou, **Jinyu Tian**, Ying Tai, Jian Yang, Min
 </div>
 </div>
 
+<!-- # 🎖 Honors and Awards -->
+
+
 # 📖 Education
 
 - *2026.09 - Present (Incoming)*: Ph.D. Student, College of Computer Science and Artificial Intelligence, **Fudan University**/**Shanghai Innovation Institute**.
