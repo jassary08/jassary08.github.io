@@ -23,8 +23,8 @@ During my undergraduate studies, my research primarily focused on AI4Researchers
 
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉🎉 Our paper "NAIPv2" has been accepted by **ICLR 2026**!
-- *2024.12*: &nbsp;🎉🎉 Our paper "From Words to Worth" has been accepted by **AAAI 2025**!
+- *2026.01*: &nbsp;🎉🎉 Our paper [NAIPv2](https://arxiv.org/abs/2509.25179) has been accepted by **ICLR 2026**!
+- *2024.12*: &nbsp;🎉🎉 Our paper [NAIPv1](https://arxiv.org/abs/2408.03934) has been accepted by **AAAI 2025**!
 
 # 📝 Publications 
 
@@ -35,7 +35,9 @@ During my undergraduate studies, my research primarily focused on AI4Researchers
 
 Penghai Zhao, **Jinyu Tian**, Qinghua Xing, Xin Zhang, Zheng Li, Jianjun Qian, Ming-Ming Cheng, Xiang Li
 
-[**Project**](https://github.com/ssocean/NAIP) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<span style="color: red;">ICLR 2026</span>
+
+[**Paper**](https://arxiv.org/abs/2509.25179) <strong>|</strong> [**Code**](https://github.com/ssocean/NAIP) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:Tyk-4Ss8FVUC'></span></strong> 
 - We propose NAIPv2, a debiased and scalable framework for automated paper quality estimation that demonstrates strong generalization.
 </div>
 </div>
@@ -47,7 +49,10 @@ Penghai Zhao, **Jinyu Tian**, Qinghua Xing, Xin Zhang, Zheng Li, Jianjun Qian, M
 
 Penghai Zhao, Qinghua Xing, Kairan Dou, **Jinyu Tian**, Ying Tai, Jian Yang, Ming-Ming Cheng, Xiang Li
 
-[**Project**](https://github.com/ssocean/NAIP) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<span style="color: red;">AAAI 2025 (CCF-A)</span>
+
+[**Paper**](https://arxiv.org/abs/2408.03934) <strong>|</strong> [**Code**](https://github.com/ssocean/NAIP) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:Tyk-4Ss8FVUC'></span></strong> 
+</div>data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We introduce a promising approach leveraging fine-tuned LLMs to predict the future impact of newborn articles solely based on titles and abstracts.
 </div>
 </div>
