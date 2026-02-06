@@ -52,7 +52,7 @@ Penghai Zhao, Qinghua Xing, Kairan Dou, **Jinyu Tian**, Ying Tai, Jian Yang, Min
 </div>
 </div>
 
-# 🎖 Honors and Awards
+<!-- # 🎖 Honors and Awards -->
 
 
 # 📖 Educations
@@ -61,7 +61,8 @@ Penghai Zhao, Qinghua Xing, Kairan Dou, **Jinyu Tian**, Ying Tai, Jian Yang, Min
 - *2022.09 - 2026.06*: Undergraduate Student, College of Cryptology and Cyber Science, **Nankai University** (南开大学).
   - Supervisor: Prof. Xiang Li.
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks -->
 
 # 💻 Internships
-- *2025.10 - Present*: Visiting Student, **Shanghai Innovation Institute** (上海创智学院).
+- *2025.xx - Present*: Visiting Student, **Shanghai Innovation Institute** (上海创智学院).
+  - Mentor: Jinlan Fu (傅金兰).
