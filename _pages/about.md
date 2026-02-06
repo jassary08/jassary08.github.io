@@ -41,7 +41,7 @@ Penghai Zhao, **Jinyu Tian**, Qinghua Xing, Xin Zhang, Zheng Li, Jianjun Qian, M
 
 <span style="color: red;">ICLR 2026</span>
 
-[**Paper**](https://arxiv.org/abs/2509.25179) <strong>|</strong> [**Code**](https://github.com/ssocean/NAIP) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:Tyk-4Ss8FVUC'></span></strong> 
+[**Paper**](https://arxiv.org/abs/2509.25179) <strong>|</strong> [**Code**](https://github.com/ssocean/NAIP) ![](https://img.shields.io/github/stars/infinigence/SpecEE)<strong><span class='show_paper_citations' data='ovQFaicAAAAJ:Tyk-4Ss8FVUC'></span></strong> 
 
 </div>
 </div>
@@ -55,7 +55,7 @@ Penghai Zhao, Qinghua Xing, Kairan Dou, **Jinyu Tian**, Ying Tai, Jian Yang, Min
 
 <span style="color: red;">AAAI 2025 (CCF-A)</span>
 
-[**Paper**](https://arxiv.org/abs/2408.03934) <strong>|</strong> [**Code**](https://github.com/ssocean/NAIP) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:Tyk-4Ss8FVUC'></span></strong>
+[**Paper**](https://arxiv.org/abs/2408.03934) <strong>|</strong> [**Code**](https://github.com/ssocean/NAIP) ![](https://img.shields.io/github/stars/infinigence/SpecEE) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:Tyk-4Ss8FVUC'></span></strong>
 
 </div>
 </div>
