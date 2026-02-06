@@ -19,7 +19,7 @@ redirect_from:
 
 I am Jinyu Tian (田晋宇), a final-year undergraduate student at the College of Cryptology and Cyber Science, **Nankai University** ([南开大学密码与网络空间安全学院](https://cyber.nankai.edu.cn/)), supervised by Prof. Xiang Li ([李翔](https://implus.github.io/)). 
 
-Currently, I am a visiting student at the **Shanghai Innovation Institute** ([上海创智学院](https://www.sii.edu.cn/)). Starting in Fall 2026, I will pursue my Ph.D. degree at the College of Computer Science and Artificial Intelligence, **Fudan University** ([复旦大学计算与智能创新学院](https://ai.fudan.edu.cn/)), under the supervision of Prof. Xipeng Qiu ([邱锡鹏](https://xpqiu.github.io/)).
+Currently, I am a visiting student at the **Shanghai Innovation Institute** ([上海创智学院](https://www.sii.edu.cn/)), mentored by Prof. Jinlan Fu ([傅金兰](https://jinlanfu.github.io/)). Starting in Fall 2026, I will pursue my Ph.D. degree at the College of Computer Science and Artificial Intelligence, **Fudan University** ([复旦大学计算与智能创新学院](https://ai.fudan.edu.cn/)), under the supervision of Prof. Xipeng Qiu ([邱锡鹏](https://xpqiu.github.io/)).
 
 During my undergraduate studies, my research primarily focused on AI4Researchers, aiming to empower the scientific community with intelligent tools. This line of research has led to papers accepted by top-tier conferences, including ICLR 2026 and AAAI 2025. My current research interests have evolved towards **Multimodal Understanding and Generation**, with the goal of building more versatile and creative AI systems.
 
@@ -59,9 +59,6 @@ Penghai Zhao, Qinghua Xing, Kairan Dou, **Jinyu Tian**, Ying Tai, Jian Yang, Min
 
 </div>
 </div>
-
-# 🎖 Honors and Awards
-- *2024, 2025*: National Endeavor Scholarship, Nankai University.
 
 # 📖 Education
 
