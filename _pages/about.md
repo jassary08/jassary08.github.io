@@ -41,7 +41,7 @@ Penghai Zhao, **Jinyu Tian**, Qinghua Xing, Xin Zhang, Zheng Li, Jianjun Qian, M
 
 <span style="color: red;">ICLR 2026</span>
 
-[**Paper**](https://arxiv.org/abs/2509.25179) <strong>|</strong> [**Code**](https://github.com/ssocean/NAIP) ![](https://img.shields.io/github/stars/infinigence/SpecEE)<strong><span class='show_paper_citations' data='ovQFaicAAAAJ:Tyk-4Ss8FVUC'></span></strong> 
+[**Paper**](https://arxiv.org/abs/2509.25179) <strong>|</strong> [**Code**](https://github.com/ssocean/NAIP) <img src="https://img.shields.io/github/stars/ssocean/NAIP?style=social&label=Stars" alt="GitHub Stars">
 
 </div>
 </div>
@@ -55,21 +55,19 @@ Penghai Zhao, Qinghua Xing, Kairan Dou, **Jinyu Tian**, Ying Tai, Jian Yang, Min
 
 <span style="color: red;">AAAI 2025 (CCF-A)</span>
 
-[**Paper**](https://arxiv.org/abs/2408.03934) <strong>|</strong> [**Code**](https://github.com/ssocean/NAIP) ![](https://img.shields.io/github/stars/infinigence/SpecEE) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:Tyk-4Ss8FVUC'></span></strong>
+[**Paper**](https://arxiv.org/abs/2408.03934) <strong>|</strong> [**Code**](https://github.com/ssocean/NAIP) <img src="https://img.shields.io/github/stars/ssocean/NAIP?style=social&label=Stars" alt="GitHub Stars">
 
 </div>
 </div>
 
-<!-- # 🎖 Honors and Awards -->
+# 🎖 Honors and Awards
+- *2024, 2025*: National Endeavor Scholarship, Nankai University.
 
+# 📖 Education
 
-# 📖 Educations
-
-- *2026.09 - Present (Incoming)*: Ph.D. Student, College of Computer Science and Artificial Intelligence, **Fudan University**  && **Shanghai Innovation Institute**.
+- *2026.09 - Present (Incoming)*: Ph.D. Student, College of Computer Science and Artificial Intelligence, **Fudan University**/**Shanghai Innovation Institute**.
 
 - *2022.09 - 2026.06*: Undergraduate Student, College of Cryptology and Cyber Science, **Nankai University**.
-
-<!-- # 💬 Invited Talks -->
 
 # 💻 Internships
 
