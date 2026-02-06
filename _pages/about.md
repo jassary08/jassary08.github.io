@@ -28,19 +28,19 @@ During my undergraduate studies, my research primarily focused on AI4Researchers
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/naipv2.png' alt="NAIPv2" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/NAIPv2.png' alt="NAIPv2" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [NAIPv2: Debiased Pairwise Learning for Efficient Paper Quality Estimation](https://arxiv.org/abs/2509.25179)
 
 Penghai Zhao, **Jinyu Tian**, Qinghua Xing, Xin Zhang, Zheng Li, Jianjun Qian, Ming-Ming Cheng, Xiang Li
 
-[**Paper**](https://arxiv.org/abs/2509.25179)
+[**Project**](https://github.com/ssocean/NAIP) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose NAIPv2, a debiased and scalable framework for automated paper quality estimation that demonstrates strong generalization.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/naip.png' alt="NAIP" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/NAIPv1.png' alt="NAIP" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [From Words to Worth: Newborn Article Impact Prediction with LLM](https://arxiv.org/abs/2408.03934)
@@ -56,7 +56,7 @@ Penghai Zhao, Qinghua Xing, Kairan Dou, **Jinyu Tian**, Ying Tai, Jian Yang, Min
 
 
 # 📖 Educations
-- *2026.09 - Present (Incoming)*: Ph.D. Student, School of Computer Science, **Fudan University** (复旦大学).
+- *2026.09 - Present (Incoming)*: Ph.D. Student, College of Computer Science and Artificial Intelligence, **Fudan University** (复旦大学) && Shanghai Innovation Institute(上海创智学院).
   - Supervisor: Prof. Xipeng Qiu.
 - *2022.09 - 2026.06*: Undergraduate Student, College of Cryptology and Cyber Science, **Nankai University** (南开大学).
   - Supervisor: Prof. Xiang Li.
