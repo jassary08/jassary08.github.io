@@ -23,7 +23,7 @@ Currently, I am a visiting student at the **Shanghai Innovation Institute** ([ä¸
 
 During my undergraduate studies, my research primarily focused on AI4Researchers, aiming to empower the scientific community with intelligent tools. This line of research has led to papers accepted by top-tier conferences, including ICLR 2026 and AAAI 2025. My current research interests have evolved towards **Multimodal Understanding and Generation**, with the goal of building more versatile and creative AI systems.
 
-**Interests**: Unified Multimodal Models, Streaming video understanding, GUI Agent.
+**Interests**: Unified Multimodal Models, LLM Agent, RL.
 
 
 # ðŸ”¥ News
@@ -39,7 +39,7 @@ During my undergraduate studies, my research primarily focused on AI4Researchers
 
 Penghai Zhao, **Jinyu Tian**, Qinghua Xing, Xin Zhang, Zheng Li, Jianjun Qian, Ming-Ming Cheng, Xiang Li
 
-<span style="color: red;">ICLR 2026</span>
+<span style="color: red;">ICLR 2026 (CCF-A)</span>
 
 [**Paper**](https://arxiv.org/abs/2509.25179) <strong>|</strong> [**Code**](https://github.com/ssocean/NAIP) <img src="https://img.shields.io/github/stars/ssocean/NAIP?style=social&label=Stars" alt="GitHub Stars">
 
